@@ -550,9 +550,6 @@ Integração: APIs de concessionárias e classificados
 Desenvolvido por: [Lucas Nascimento]
 
 
-LinkedIn: [linkedin.com/in/seuperfil]
-
-
 GitHub: [github.com/lucas21gunss]
 
 📄 Licença
