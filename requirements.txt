@@ -1,0 +1,11 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+sqlalchemy==2.0.41
+faker==37.4.0
+faker-vehicle==0.2.0
+httpx==0.28.1
+typer==0.16.0
+rich==14.0.0
+pytest==8.4.1
+pytest-asyncio==1.0.0
+
